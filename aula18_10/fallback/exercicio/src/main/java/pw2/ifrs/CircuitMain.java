@@ -4,8 +4,6 @@ package pw2.ifrs;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-
-import jakarta.inject.Inject;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
